@@ -1,0 +1,16 @@
+{
+  "name": "jasoos-retry-system",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@triyanox/async-sequence": "^0.1.8",
+    "json-2-csv": "^5.5.4",
+    "neat-csv": "^7.0.0"
+  }
+}
